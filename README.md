@@ -1,2 +1,3 @@
-# Binary-to-number-module
-This is a module that can be used to convert numbers from base 2 to 1 and vice versa
+<h1>Binary-to-number-module</h1>
+<h4>I decided to map out an algorithmn that sums two binary numbers</h4>
+<h6>The challenge was to do one with out using the parseInt prototype Which is the project you see today.</h6>
